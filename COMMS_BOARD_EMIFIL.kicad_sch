@@ -1,0 +1,6151 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f4a1b871-c5c9-4b28-8500-80e3ea7ea04c")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Samac_sys:744231061"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at 16.51 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "744231061"
+				(at 16.51 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "WE-CNSW_08058"
+				(at 16.51 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 16.51 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" ""
+				(at 16.51 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "710-744231061"
+				(at 16.51 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744231061?qs=PGXP4M47uW6SueLTCau2sg%3D%3D"
+				(at 16.51 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Wurth Elektronik"
+				(at 16.51 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "744231061"
+				(at 16.51 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "744231061_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 15.24 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 0 180)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 -2.54 180)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Samac_sys:MAF0603FAL330BT000"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FL"
+				(at 16.51 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "MAF0603FAL330BT000"
+				(at 16.51 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "BEADC0603X33N"
+				(at 16.51 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+				(at 16.51 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.33"
+				(at 16.51 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+				(at 16.51 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+				(at 16.51 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "TDK"
+				(at 16.51 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+				(at 16.51 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "MAF0603FAL330BT000_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 15.24 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "Signal Line Ferrite Bead\n"
+		(exclude_from_sim no)
+		(at 45.466 37.084 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+		)
+		(uuid "13cd7ae5-93a4-4140-a5b2-863ae3502c45")
+	)
+	(text "NOTE: ONLY DATA LINES ARE FILTERED\nNot required for GPIO lines like:\n1.RAD_PTT\n2.RAD_PW\n3.RAD_SQ"
+		(exclude_from_sim no)
+		(at 29.21 28.448 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "69ff0e5b-daf3-4713-afdc-247cfd9b5042")
+	)
+	(text "Common Mode Choke\n"
+		(exclude_from_sim no)
+		(at 115.824 34.29 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+		)
+		(uuid "c6d8a796-9894-4ed6-9e50-96dde1465a71")
+	)
+	(junction
+		(at 133.35 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0080ae70-6488-4263-810c-e797ed6bbb0b")
+	)
+	(junction
+		(at 133.35 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "17bdf356-898c-41e0-b66e-c706d63c72bd")
+	)
+	(junction
+		(at 133.35 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5789efff-16dc-497f-ad10-7a0ae8c6f30e")
+	)
+	(junction
+		(at 132.08 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9130232f-9db7-40b6-b2db-85d2fe7f4640")
+	)
+	(junction
+		(at 133.35 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97157c08-5b12-4b19-8f3e-8d24feee10f4")
+	)
+	(junction
+		(at 132.08 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a40fd4b4-6573-4ce3-b2b7-02b77bc6b5f4")
+	)
+	(junction
+		(at 265.43 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b07f9b8a-4474-48e2-b342-5cfa56126cef")
+	)
+	(junction
+		(at 264.16 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e2cc8a20-503d-477e-b774-04e643a67a7d")
+	)
+	(junction
+		(at 132.08 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f862f51c-b8cf-4df8-8657-3e2ba3e1f632")
+	)
+	(junction
+		(at 133.35 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff07c4f2-1974-43a6-bc69-1b5b78bc004c")
+	)
+	(wire
+		(pts
+			(xy 133.35 87.63) (xy 133.35 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0970853b-2696-46ee-bfee-33afa053dcc3")
+	)
+	(wire
+		(pts
+			(xy 265.43 39.37) (xy 265.43 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0986bbe7-609e-4adf-b2a5-bdae7a1c9bff")
+	)
+	(wire
+		(pts
+			(xy 132.08 142.24) (xy 132.08 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0db8e870-a12f-4fb3-b538-8f46a3c36e9c")
+	)
+	(wire
+		(pts
+			(xy 133.35 85.09) (xy 133.35 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15dad462-7da7-4dcc-a5bc-3d31ae524a90")
+	)
+	(wire
+		(pts
+			(xy 132.08 139.7) (xy 129.54 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23495254-6b92-4689-8661-89121ce234dd")
+	)
+	(wire
+		(pts
+			(xy 261.62 59.69) (xy 264.16 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a3096e1-ea2d-4de9-b7d6-7c4ebda5304d")
+	)
+	(wire
+		(pts
+			(xy 132.08 106.68) (xy 132.08 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d97dcf1-342b-4a84-bbf2-7c6ccb6dc2be")
+	)
+	(wire
+		(pts
+			(xy 132.08 158.75) (xy 132.08 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35e0304f-bce0-49ca-850d-e000eb421e05")
+	)
+	(wire
+		(pts
+			(xy 262.89 39.37) (xy 265.43 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a1f1817-be27-42fd-bc39-078ff57340c1")
+	)
+	(wire
+		(pts
+			(xy 132.08 156.21) (xy 129.54 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3eda411b-ea6e-424f-a2b4-16fd9d3e4a71")
+	)
+	(wire
+		(pts
+			(xy 133.35 85.09) (xy 130.81 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42b543e8-fa5d-4e62-9a9a-e1bfa9a6682e")
+	)
+	(wire
+		(pts
+			(xy 129.54 106.68) (xy 132.08 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "481a905d-695d-4845-8960-440458d64c16")
+	)
+	(wire
+		(pts
+			(xy 133.35 41.91) (xy 133.35 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4be3d29f-abae-4216-b199-ad004afdf805")
+	)
+	(wire
+		(pts
+			(xy 132.08 139.7) (xy 132.08 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "550afac4-a55f-4826-873a-26081dcd2328")
+	)
+	(wire
+		(pts
+			(xy 130.81 41.91) (xy 133.35 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c3c7239-a457-4873-a5f4-f3e5339e5975")
+	)
+	(wire
+		(pts
+			(xy 132.08 104.14) (xy 129.54 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "693a784a-2cd2-48d1-a148-9d3357dcf366")
+	)
+	(wire
+		(pts
+			(xy 38.1 146.05) (xy 39.37 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d8395ab-530b-4438-90fe-61981f71a392")
+	)
+	(wire
+		(pts
+			(xy 133.35 125.73) (xy 133.35 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "781afa9c-dc8b-471e-9b47-4ead7202d353")
+	)
+	(wire
+		(pts
+			(xy 40.64 76.2) (xy 40.64 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79ca111d-b893-4aa9-8546-a374aeb214fe")
+	)
+	(wire
+		(pts
+			(xy 265.43 36.83) (xy 262.89 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a2c594a-e501-46d7-8f3d-bd1d811d889b")
+	)
+	(wire
+		(pts
+			(xy 264.16 57.15) (xy 264.16 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83edebd4-8360-4910-af30-976b148d2de3")
+	)
+	(wire
+		(pts
+			(xy 39.37 129.54) (xy 40.64 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "857f5996-3352-4c4b-8b30-f1d0626209c5")
+	)
+	(wire
+		(pts
+			(xy 130.81 72.39) (xy 133.35 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "872935b5-7e23-4ea3-9d42-3641b54f2997")
+	)
+	(wire
+		(pts
+			(xy 170.18 63.5) (xy 171.45 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "872afcc4-f2f5-4923-be0b-048472e7a065")
+	)
+	(wire
+		(pts
+			(xy 264.16 57.15) (xy 261.62 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ac7dbe2-d0aa-40be-b8da-de78987788e0")
+	)
+	(wire
+		(pts
+			(xy 133.35 123.19) (xy 133.35 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92fdb71b-a32a-4243-8c58-ad86d78fd46b")
+	)
+	(wire
+		(pts
+			(xy 133.35 54.61) (xy 130.81 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92ffbfdb-b5bd-434d-be99-f9f638a13e02")
+	)
+	(wire
+		(pts
+			(xy 132.08 104.14) (xy 132.08 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9613fabf-6cca-49ec-9dd6-8da81ee3abdc")
+	)
+	(wire
+		(pts
+			(xy 132.08 156.21) (xy 132.08 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "962870b5-b107-44a8-a5fb-9cc745cd6018")
+	)
+	(wire
+		(pts
+			(xy 39.37 91.44) (xy 40.64 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9eed69ba-c5dc-4543-b080-fdaa40727db1")
+	)
+	(wire
+		(pts
+			(xy 130.81 125.73) (xy 133.35 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7d95bfe-2c2c-4c91-b46a-4d5d24983aa6")
+	)
+	(wire
+		(pts
+			(xy 265.43 36.83) (xy 265.43 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bace8349-64cb-4c74-a41f-19b72386fe33")
+	)
+	(wire
+		(pts
+			(xy 129.54 158.75) (xy 132.08 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5d3a7b2-30cb-413f-aec2-37117e5ddbcd")
+	)
+	(wire
+		(pts
+			(xy 133.35 123.19) (xy 130.81 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8049395-92f8-4baa-999b-bed02fe0b49e")
+	)
+	(wire
+		(pts
+			(xy 264.16 59.69) (xy 264.16 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca532f9c-3451-4517-8062-407d41a47d85")
+	)
+	(wire
+		(pts
+			(xy 133.35 72.39) (xy 133.35 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb5bde3d-d948-4a8e-97f5-cdc60b032d13")
+	)
+	(wire
+		(pts
+			(xy 130.81 57.15) (xy 133.35 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da7ef280-7b19-48f0-a895-6997a0485124")
+	)
+	(wire
+		(pts
+			(xy 129.54 142.24) (xy 132.08 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de057206-89af-4af0-9ed4-a1021ed9d130")
+	)
+	(wire
+		(pts
+			(xy 38.1 110.49) (xy 39.37 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ece047cf-3f5c-4823-a2ba-f71b0c58ad0d")
+	)
+	(wire
+		(pts
+			(xy 38.1 162.56) (xy 39.37 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef90893c-cbf7-4f7b-bf5a-73a6a2dbf2e7")
+	)
+	(wire
+		(pts
+			(xy 130.81 87.63) (xy 133.35 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0735714-e17a-480e-ba11-4989a1031b23")
+	)
+	(wire
+		(pts
+			(xy 171.45 43.18) (xy 172.72 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3174ae0-164b-4ecc-91a5-ef351b603904")
+	)
+	(wire
+		(pts
+			(xy 133.35 54.61) (xy 133.35 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f39e1cbd-ebcb-4678-957a-e0e536f42c09")
+	)
+	(wire
+		(pts
+			(xy 133.35 69.85) (xy 130.81 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f63c0a33-0a90-4e51-805f-934b30170027")
+	)
+	(wire
+		(pts
+			(xy 133.35 39.37) (xy 130.81 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8f500ce-334b-405a-88ec-e6ea713a03cb")
+	)
+	(wire
+		(pts
+			(xy 133.35 39.37) (xy 133.35 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fcced4e4-7720-4d70-876a-2a61cd619570")
+	)
+	(wire
+		(pts
+			(xy 133.35 57.15) (xy 133.35 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdc82736-c42b-4c6e-af46-695f20e9cafa")
+	)
+	(wire
+		(pts
+			(xy 133.35 69.85) (xy 133.35 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe070b83-10eb-4769-aecf-297d481b3c8e")
+	)
+	(image
+		(at 100.33 27.94)
+		(scale 0.19489)
+		(uuid "c42202d6-fbad-4df4-af25-2846458e3c5d")
+		(data "iVBORw0KGgoAAAANSUhEUgAAASAAAADDCAYAAAAiJMwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACx"
+			"jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABRmSURBVHhe7Z15sFTVncetssoqrbLUPyzKcoGI"
+			"KEkkiMwkoAmI4ECQQMaNzdEQVDDKmHEZFTWokEncYCDGsRIQxYVshcZolZggkYiSygSEiQuDoAMl"
+			"SwmIggvrGT/H/r30a26/193v3nvOu3w/VV9e36Xv1vd87jnn3m4O+s+p05yiKEpeuf7a69yAfmc7"
+			"kIAURck1zQTk/xVCiJxY8sorbuRFF/nXEpAQIlckICFEMCQgIUQwJCAhRDAkICFEMOoS0Nq1a939"
+			"M2a4iTfe5O675163/NVXS1NaZsP69W7OI4+4uU88URoTlo8//ti9v3Wr27Fjhx/euHGj+9GUH/rs"
+			"2b3bjxNCZE/NAvrzkj+7rid1cSee0LFZ5j7+eGmO6ix+6SU/72mndiuNCcvdP/6x356rxl/ph19/"
+			"/fWm/dm5c6cfJ4TInpoFdOF55/sCevl3x7q316xxt06c6Ie/1vMfSnNUJ3YBffDBB+6Zp3/ns3fv"
+			"Xj9OCJE9NQuo+5dP9YX2F3Pn+uFVq1Z99sbhPjRpbNwPbr3VXfDP5/nC/crLL/vx5QJ66U9/8hIb"
+			"ceGFvsAbmzdvdlPuvNNvzNjvjHG/+uUvS1Oce/CBB9zN/36je3nxYnfHpNvdRedf4P5j8hS3+7Pm"
+			"0uxZs/w2XH3l99y7775beodzi15c5K647DI39Nwh7tKLL26qqfF38MCBfnv6nHGmm3TrbW79u+v9"
+			"8ok1wbZv3+7uuesuN3rESPedSy5pVtP7/fPP+22nGSeEaJyaBdT3zK/7Qvvtbw1169atK439O/QP"
+			"nd79ND/POf3Odl2+cKI7qdMX3Irly5sE1OXEzu7Lp3R1Xzr5FD98SueT3HvvveebPWf3PcuPO3/Y"
+			"t91XT+/pX//mV7/2y0Y4DJ/a9Ys+vCaMZ3k2/L1x4/38r/3tb379LJ95rOn47DPPeEF2++KX/DDb"
+			"0f+ss/ZrglELGjbkW374G73PaJp/1s9n+uWf8bVefnjZ0mV+WAjRGDUL6CfTpzcV0pM/E8l13/83"
+			"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"
+			"ohQ4sSMBKUqBEzsSkKIUOLEjASlKgRM7EpCiFDixIwEpSoETOxKQohQ4sSMBKUqBEzsSkKIUOLEj"
+			"ASlKgRM7EpCiFDixIwEpSoETOxKQohQ4sSMBKUqBEzsSkKIUOLEjASlKgRM7EpCiFDixIwEpSoET"
+			"OxKQohQ4sSMBKUqBEzsSkKIUOLEjASlKgRM7EpCiFDixIwEpSoETOxKQohQ4sSMBKUqBEzsSkKIU"
+			"OLHzdwE59/+IkDzyllSYDgAAAABJRU5ErkJggm91ZHkgU3RvdXQAAAAAAAAAAAAAAAAADwAAAAAA"
+			"AAAAcmVla0MAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAAByZWVrQ19JVjI1AAAAAAAAAAAAAAAA"
+			"AA8AAAAAAAAAAHJlZWtDX0lWNTAAAAAAAAAAAAAAAAAAowAAo2806gBARgHRxwEAAIAAyvnIAQAA"
+			"QwBBAEEAQQBBAEEAQQBBAEEARABBAEEAQQBBAEEAQQBBAFkAMABnAEEAQQBRAEQAUgBBAEEAQQBB"
+			"ADgAZgBnAGIARgBDAFQAQQBnAGQAQQAvADAASQBsAFMAMwB0AGcAWgBIAHcALwBCAHUAVgBJAE0A"
+			"QgBBADIAQgBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQgBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBB"
+			"AEEAQQBBAEEAQQBBAEEAawBZAEEAVQBBAHcASABRAEIAKwBUAFEARABpADYANgBrAEcARQBpAGkA"
+			"TgBDAEEAcwBDAE0AdwAwAFoASwBBAEUAQwBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBB"
+			"AEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAWQBLAFkASABiAEwAbQBKAGsATABVAGsAeAA3ACsA"
+			"RgA3AGwAWABmAHcAQgBGAEEAeABBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEIAQQBWAE4AWABa"
+			"AHkATgBIAEEAOABBAFEAQwBBAFEAQQBBAHYANwBMAEEAQQBBAEEAQQBBAEEAQQBBAEEANABDAEEA"
+			"QQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBB"
+			"AEEAQQBBAEEAQQBBAEEAQQBVAEYAQQB6AEIAUQBaAEEASQBIAEEAegBCAEEAQQBBAFEAQgBBAFEA"
+			"QgBRAE0AQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAUQBBAFEAYQAzAEYAbQBiADAAQgBBAFAAQQBr"
+			"AEEAQQBFAEEAdwA3ACsAQwBBAEEAQQBBAEEAQQBBAEEAQQBBAHUAQQBBAEEAQQBBAEEAQQBBAEEA"
+			"QQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBBAEEAQQBB"
+			"AEEAcABCAHcAZABBAEUARwBBAHUAQgBBAGQAQQBBAEEAQQBVAEEAZwBXAEEARQBEAEEAQQBBAEEA"
+			"QQBBAEEAQQBBAEEAQQBBAEUAQQA4AGsAYgBsAFIAawBjAHAAWgBYAFoAQQBBAGcAUQBBAGsAQQBB"
+			"AEUAQQB3ADcAKwBDAEEAQQBBAEEAQQBBAEFuYm9hcmQgYW50ZW5uYSwgU01EIiAoYXQgMCAwIDAp"
+			"KGVmZmVjdHMoZm9udChzaXplIDEuMjcgMS4yNykpKGhpZGUgeWVzKSkpKHByb3BlcnR5ICAia2lf"
+			"a2V5d29yZHMiICJSRiBSYWRpbyBCVCBFU1AgRVNQMzIgRXNwcmVzc2lmIG9uYm9hcmQgUENCIGFu"
+			"dGVubmEiIChhdCAwIDAgMCkoZWZmZWN0cyhmb250KHNpemUgMS4yNyAxLjI3KSkoaGlkZSB5ZXMp"
+			"KSkocHJvcGVydHkgICJraV9mcF9maWx0ZXJzIiAiRVNQMzI/V1JPT00/MzJEKiIgKGF0IDAgMCAw"
+			"KShlZmZlY3RzKGZvbnQoc2l6ZSAxLjI3IDEuMjcpKShoaWRlIHllcykpKShzeW1ib2wgIkVTUDMy"
+			"LVdST09NLTMyRV8wXzEiKHJlY3RhbmdsZSAgKHN0YXJ0IC0xMi43IDMzLjAyKSAoZW5kIDEyLjcg"
+			"LTMzLjAyKShzdHJva2UgKHdpZHRoIDAuMjU0KSAodHlwZSBkZWZhdWx0KSkoZmlsbCAodHlwZSBi"
+			"YWNrZ3JvdW5kKSkpKShzeW1ib2wgIkVTUDMyLVdST09NLTMyRV8xXzEiKHBpbiBpbnB1dCBsaW5l"
+			"IChhdCAtMTUuMjQgMzAuNDggMCkgKGxlbmd0aCAyLjU0KShuYW1lICJFTiIgKGVmZmVjdHMgKGZv"
+			"bnQgKHNpemUgMS4yNyAxLjI3KSkpKShudW1iZXIgIjMiIChlZmZlY3RzIChmb250IChzaXplIDEu"
+			"MjcgMS4yNykpKSkpKHBpbiBpbnB1dCBsaW5lIChhdCAtMTUuMjQgMjUuNCAwKSAobGVuZ3RoIDIu"
+			"NTQpKG5hbWUgIlNFTlNPUl9WUCIgKGVmZmVjdHMgKGZvbnQgKHNpemUgMS4yNyAxLjI3KSkpKShu"
+			"dW1iZXIgIjQiIChlZmZlY3RzIChmb250IChzaXplIDEuMjcgMS4yNykpKSkpKHBpbiBpbnB1dCBs"
+			"aW5lIChhdCAtMTUuMjQgMjIuODYgMCkgKGxlbmd0aCAyLjU0KShuYW1lICJTRU5TT1JfVk4iIChl"
+			"ZmZlY3RzIChmb250IChzaXplIDEuMjcgMS4yNykpKSkobnVtYmVyICI1IiAoZWZmZWN0cyAoZm9u"
+			"dCAoc2l6ZSAxLjI3IDEuMjcpKSkpKQAAABAmz+PIAQAAEOuA6cgBAAAwSD/gyAEAALArzuPIAQAA"
+			"sCHP48gBAABgMQPkyAEAAEAxA+TIAQAAEJ0/4MgBAAAQwCXnyAEAABDVJefIAQAA8P8+4MgBAABg"
+			"Gz/ryAEAAFCNP+DIAQAAsBM/4MgBAADQge8/NSQSwF0zCT9YqOt/JSQk/zs7O/8AAAAAAAAAAEXw"
+			"7z81JBLAXTMJP1io638lJCT/Ozs7/wAAAAAAAAAAHVDuP0kRFcCrQy4/WKjrfyUkJP87Ozv/AAAA"
+			"AAAAAACBCew/mBcUwF0zCT9YqOt/JSQk/zs7O/8AAAAAAAAAADGx+T9dpxHA91NTP1io638lJCT/"
+			"Ozs7/wAAAAAAAAAAHVDuP0kRFcCrQy4/WKjrfyUkJP87Ozv/AAAAAAAAAAAeivI/SfQSwKtDLj9W"
+			"pux/JSQk/zs7O/8AAAAAAAAAAB6K8j9J9BLAq0MuP1am7H8lJCT/Ozs7/wAAAAAAAAAAHVDuP0kR"
+			"FcCrQy4/WKjrfyUkJP87Ozv/AAAAAAAAAABF8O8/NSQSwF0zCT9YqOt/JSQk/zs7O/8AAAAAAAAA"
+			"AEZC4z/S3hzA91NTP1io638lJCT/Ozs7/wAAAAAAAAAAHxbqP0kuF8CrQy4/WKjrfyUkJP87Ozv/"
+			"AAAAAAAAAAAxsfk/XacRwPdTUz9YqOt/JSQk/zs7O/8AAAAAAAAAAIEJ7D+YFxTAXTMJP1io638l"
+			"JCT/Ozs7/wAAAAAAAAAAHxbqP0kuF8CrQy4/WKjrfyUkJP87Ozv/AAAAAAAAAAC7Iug/+goWwF0z"
+			"CT9YqOt/JSQk/zs7O/8AAAAAAAAAADGx+T9dpxHA91NTP1io638lJCT/Ozs7/wAAAAAAAAAAHxbq"
+			"P0kuF8CrQy4/WKjrfyUkJP87Ozv/AAAAAAAAAAAdUO4/SREVwKtDLj9YqOt/JSQk/zs7O/8AAAAA"
+			"AAAAAB1Q7j9JERXAq0MuP1io638lJCT/Ozs7/wAAAAAAAAAAHxbqP0kuF8CrQy4/WKjrfyUkJP87"
+			"Ozv/AAAAAAAAAACBCew/mBcUwF0zCT9YqOt/JSQk/zs7O/8AAAAAAAAAAPc75D9c/hfAXTMJP1en"
+			"638lJCT/Ozs7/wAAAAAAAAAAH9zlP0lLGcCrQy4/WqrsfyUkJP87Ozv/AAAAAAAAAABGQuM/0t4c"
+			"wPdTUz9YqOt/JSQk/zs7O/8AAAAAAAAAALsi6D/6ChbAXTMJP1io638lJCT/Ozs7/wAAAAAAAAAA"
+			"H9zlP0lLGcCrQy4/WqrsfyUkJP87Ozv/AAAAAAAAAAD3O+Q/XP4XwF0zCT9Xp+t/JSQk/zs7O/8A"
+			"AAAAAAAAAEZC4z/S3hzA91NTP1io638lJCT/Ozs7/wAAAAAAAAAAH9zlP0lLGcCrQy4/WqrsfyUk"
+			"JP87Ozv/AAAAAAAAAAAfFuo/SS4XwKtDLj9YqOt/JSQk/zs7O/8AAAAAAAAAAB8W6j9JLhfAq0Mu"
+			"P1io638lJCT/Ozs7/wAAAAAAAAAAH9zlPyDu2QgQIrEF/////3JdjQjVRecFkv6UCMTg4QX/////"
+			"QI/hCCteswUg7tkIPMO4Bf////9DRpgILzDnBWPnnwgey+EF/////0CP4QhY/7oFIO7ZCGlkwAX/"
+			"////Fi+jCIka5wU20KoIeLXhBf////9Aj+EIeqDCBSDu2QiLBcgF/////9oXrgjjBOcF+ri1CNKf"
+			"4QX/////QI/hCItBygUg7tkInKbPBf////+HALkIPO/mBaehwAgriuEF/////0CP4Qik4tEFIO7Z"
+			"CLVH1wX/////PenDCJbZ5gVdissIhXThBf////9Aj+EI6IPZBSDu2Qj56N4F/////zHSzgjww+YF"
+			"UXPWCN9e4QX/////QI/hCPAk4QXRutkISq7mBf/////QABbQABbYAB7QAB7QAB7QAB7QAB7QAB7Y"
+			"AFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQAFHQ"
+			"AFHwBAYBTgHYBwrUBxeYApgRmALUBxuYd9IHJtAHJtgIJNAIJNAIJNAIJNAIJNAIJNAIJOAIL9AI"
+			"L9AIL9AIL9AIL9AIL/j42AcS8AABAU4B8AABAU4B8AABAU4B2ARN0ARN0ARN0ARN0ARN0ARN0ARN"
+			"0ARN8AMBAU4B+Pj48AYAASvQACrQACrQACrQACrQACrYAD3QAD3QAD3QAD3QAD3QAD3QAD3QAD3w"
+			"AgYBAvAABgEC8AAGAQLwAAYBAvAABgEC8AAGAQLwAAYBAvAABgEC8AAGAQLwAAYBAvAABgEC8AAG"
+			"AQLwAAYBAvAABgEC8A4AAVAB0ABP0ABP0ABP0ABP0ABP0ABP0ABP0ABP0ABP4A0egArYEy/QABDw"
+			"Bk4CASLwAE4CASLwAE4CASLwAE4CASLwAE4CASLQECHxAE4CASL0AE4CASLwAE4CASLwYgQnARzw"
+			"ACcBHPAAJwEc8AAnARzwACcBHJAZ8QAnARz0ACcBHPAAJwEc8FQBOgFAAfAAOgFAAfAAOgFAAfAA"
+			"OgFAAfAAOgFAAZBJ8QA6AUAB9AA6AUAB8AA6AUAB8HoBVgIBQAHwAFYCAUAB8ABWAgFAAfAAVgIB"
+			"QAHwAFYCAUABkFnxAFYCAUAB9ABWAgFAAfAAVgIBQAHwcgQAGRrQABXwBjkBM/AAOQEz8AA5ATPw"
+			"ADkBM/AAOQEzkCWYGfEAOQEz9AA5ATPwADkBM/B4ATEBIfAAMQEh8AAxASHwADEBIfAAMQEhkDOY"
+			"CfEAMQEh9AAxASHwADEBIfBoAS8BG/AALwEb8AAvARvwAC8BG/AALwEbkHWYafEALwEb9AAvARvw"
+			"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"
+			"CQAAAABr5kUFAAAAANciAAAAAAAA2/XVCQAAAAC8fkcFAAAAANgiAAAAAAAA2PXVCQAAAADAfkcF"
+			"AAAAANkiAAAAAAAAB7XUCQAAAADiXkkFAAAAANoiAAAAAAAAALXUCQAAAADvXkkFAAAAAAk+HY0A"
+			"KQCAB9jTCQAAAABqdEsFAAAAANwiAAAAAAAABNjTCQAAAAB0dEsFAAAAAN0iAAAAAAAAXGfTCQAA"
+			"AADPqk0FAAAAAN4iAAAAAAAAXGfTCQAAAADSqk0FAAAAAN8iAAAAAAAAXGfTCQAAAABO7E8FAAAA"
+			"AOAiAAAAAAAAXGfTCQAAAABQ7E8FAAAAAOEiAAAAAAAAW2fTCQAAAABQ7E8FAAAAAOIiAAAAAAAA"
+			"BNjTCQAAAACrIlIFAAAAAOMiAAAAAAAAB9jTCQAAAAC1IlIFAAAAAOQiAAAAAAAAALXUCQAAAAAw"
+			"OFQFAAAAAOUiAAAAAAAAB7XUCQAAAAA9OAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEViR9sAfgaAR3Jhc3NldHRvIENv"
+			"cnNpdm8AAAAAAAAAQ2JF2wB/BoAGAAAAEAAAAFAEAwAAAAAAAAAAAAAAAABBYkPbAIAGgAAAAAAA"
+			"AAAAkjpzfgAAAADAsSg0cQEAAE9iQdsAgQaAU3RhbmRhcmQAAAAAAAAAAAAAAAAAAAAATWJP2wCC"
+			"BoAGAAAAEAAAANDwAgAAAAAAAAAAAAAAAABLYk3bAIMGgAAAAAAAAAAA3utwdgAAAAAAtSg0cQEA"
+			"AEliS9sAhAaA5rGJ5Luq6ZW/5Lu/5a6L5L2TAAAAAAAAd2JJ2wCFBoBJU09DUDNfSVY1MAAAAAAA"
+			"AAAAAAAAAAB1YnfbAIYGgElTT0NQX0lWNTAAAAAAAAAAAAAAAAAAAHNiddsAhwaAAAAAAAAAAADo"
+			"UTxfAAAAAKC3KDRxAQAAcWJz2wCIBoBJU09DVDJfSVY1MAAAAAAAAAAAAAAAAAB/YnHbAIkGgAYA"
+			"AAAQAAAAcMUCAAAAAAAAAAAAAAAAAH1if9sAigaASVNPQ1AyX0lWMjUAAAAAAAAAAAAAAAAAe2J9"
+			"2wCLBoAGAAAAEAAAAHDrAgAAAAAAAAAAAAAAAAB5YnvbAIwGgFN0YW5kYWFyZAAAAAAAAAAAAAAA"
+			"AAAAAGdiedsAjQaAAAAAAAAAAAD66nByAAAAAIC4KDRxAQAAZWJn2wCOBoBJU09DVDNfSVY1MAAA"
+			"AAAAAAAAAAAAAABjYmXbAI8GgE5vcm1hbG55AAAAAAAAAAAAAAAAAAAAAGFiY9sAkAaATm9ybWFh"
+			"bGkAAAAAAAAAAAAAAAAAAAAAb2Jh2wCRBoDQntCx0YvRh9C90YvQuQAAAAAAAAAAAABtYm/bAJIG"
+			"gAYAAAAQAAAAMMICAAAAAAAAAAAAAAAAAGtibdsAkwaAAAAAAAAAAADSUxxMAAAAAOC2KDRxAQAA"
+			"aWJr2wCUBoAAAAAAAAAAAJeCH0wAAAAAILUoNHEBAAAXYmnbAJUGgAYAAAAQAAAAQMkCAAAAAAAA"
+			"AAAAAAAAABViF9sAlgaASVNPQ1BFVVIAAAAAAAAAAAAAAAAAAAAAE2IV2wCXBoAAAAAAAAAAAPPq"
+			"cHoAAAAAYLUoNHEBAAARYhPbAJgGgAYAAAAQAAAAANwCAAAAAAAAAAAAAAAAAB9iEdsAmQaAAAAA"
+			"AAAAAACfjyuvAAAAAMCzKDRxAQAAHWIf2wCaBoAAAAAAAAAAANfrcH4AAAAA4LQoNHEBAAAbYh3b"
+			"AJsGgAYAAAAQAAAAMNQCAAAAAAAAAAAAAAAAABliG9sAnAaABgAAABAAAACg/wIAAAAAAAAAAAAA"
+			"AAAAB2IZ2wCdBoAGAAAAEAAAAADmAgAAAA=="
+		)
+	)
+	(global_label "CAN_RX"
+		(shape input)
+		(at 39.37 143.51 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "06b85408-7b1f-4dd9-85eb-62e3f4b31995")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.2486 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "UART2_RX"
+		(shape input)
+		(at 40.64 190.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "07968f7f-94fa-44d8-9236-fcc24bd25701")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.3415 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SUART_RX_FILT_1"
+		(shape input)
+		(at 110.49 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0994d59f-9c4d-4352-9c41-67d44f2bfd66")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.3577 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_EN_FILT"
+		(shape input)
+		(at 242.57 36.83 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "159140b4-9826-42c4-81be-45743e7fa649")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 227.8524 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SUART_RX_FILT"
+		(shape input)
+		(at 40.64 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "162afd0e-7594-4ade-bc96-0ae22c982504")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.6848 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAN_RX_FILT"
+		(shape input)
+		(at 109.22 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1d5e7acc-1028-4d2a-b8d3-e1cd6b4e25f7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.4419 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SUART_TX_FILT"
+		(shape input)
+		(at 110.49 69.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1dd609e1-1bd0-4c65-a4a1-d42bc53d4482")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.8372 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RX_AUD_AC_FILT"
+		(shape input)
+		(at 39.37 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1fa4a3e2-4f13-4600-a620-de69ba5d2865")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 21.2657 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_PW_FILT_1"
+		(shape input)
+		(at 241.3 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2294ff31-709e-4f38-996d-c8e33bb1d2b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 224.1634 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "UART2_RX_FILT"
+		(shape input)
+		(at 40.64 193.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2716a1af-7576-4a98-b833-28aba644675b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.6848 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAN_TX_FILT_1"
+		(shape input)
+		(at 109.22 158.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2d7d8f42-9341-4107-92b0-32c7ed646372")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.5672 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_PTT"
+		(shape input)
+		(at 39.37 107.95 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2e0f6ded-7d01-4ce7-ace1-5b2a2e80207d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.5834 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_PTT_FILT"
+		(shape input)
+		(at 109.22 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "31b1ddfb-4c8b-4d3b-8b78-f09268ea75f6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.7767 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RX_AUD_AC_FILT"
+		(shape input)
+		(at 110.49 85.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "343ed089-3865-493b-8205-43ed46a340e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.3857 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_EN"
+		(shape input)
+		(at 172.72 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "42e6d737-45c4-471a-9187-d6bcd4867c74")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 162.6591 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_PW"
+		(shape input)
+		(at 171.45 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "446b49ea-22f5-4ffd-92a9-6274a3976290")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 161.1472 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAN_TX_FILT"
+		(shape input)
+		(at 38.1 162.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "568ea368-732d-4460-99a9-e96b665c300f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.6243 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RX_AUD_AC_FILT_1"
+		(shape input)
+		(at 110.49 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "589468d9-55e9-4f8b-992c-3e1273f5f334")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.2086 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAN_RX_FILT"
+		(shape input)
+		(at 38.1 146.05 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5e31f5f0-8114-4f60-afd2-852d068262c3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.3219 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SUART_TX"
+		(shape input)
+		(at 40.64 73.66 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "63088191-96f6-424b-ac23-60650ed0b6a2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.6439 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_SQ_FILT"
+		(shape input)
+		(at 39.37 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6a382c76-4234-4fb9-816d-511cc13dde13")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 24.5919 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAN_TX_FILT"
+		(shape input)
+		(at 109.22 156.21 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6a9a7c34-6455-4c13-afed-65782124d4ae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 94.7443 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TX_AUD_FILT"
+		(shape input)
+		(at 40.64 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "79e9396d-2cec-426d-9708-04a6c23c9a0c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.1643 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_PW_FILT"
+		(shape input)
+		(at 170.18 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7f0633b5-109a-4ad1-b510-8e1126b3e2cf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 155.2205 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "UART2_TX_FILT"
+		(shape input)
+		(at 40.64 179.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "863148dc-7ea5-4f42-a7b9-5fcf867b86f8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.9872 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAM_SWITCH_FILT"
+		(shape input)
+		(at 111.76 179.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8a3014f7-1c44-4fb9-b9c2-266bdf9f16b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.5067 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SUART_TX_FILT"
+		(shape input)
+		(at 40.64 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96852135-ea9e-4609-8e20-db5dd24f6455")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.9872 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_SQ"
+		(shape input)
+		(at 40.64 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "96dcd46f-d575-46ff-8841-52c51462fe24")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 30.5186 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RX_AUD_AC"
+		(shape input)
+		(at 40.64 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9bc0b85a-ab89-40d3-8c3e-c6e91191bca9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 27.1924 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAM_SWITCH"
+		(shape input)
+		(at 111.76 176.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9c0ef2e7-7ff3-4345-b64c-f89a222eb2d1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.1634 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TX_AUD_FILT_1"
+		(shape input)
+		(at 110.49 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b4c943e2-8166-4b4d-a33a-539fc4f2f17b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.8372 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_PTT_FILT"
+		(shape input)
+		(at 38.1 110.49 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b64501bf-ad91-4f09-80ec-dad33c61fdce")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 22.6567 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_EN_FILT"
+		(shape input)
+		(at 171.45 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b8315a60-dcf0-4c31-a7c9-ad26e20c434e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.7324 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_PW_FILT"
+		(shape input)
+		(at 241.3 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b954079f-011b-43e2-ab12-7225e1628ab6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 226.3405 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_SQ_FILT_1"
+		(shape input)
+		(at 110.49 125.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bbe83130-a12c-45c6-ac97-40ec60025728")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.5348 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_SQ_FILT"
+		(shape input)
+		(at 110.49 123.19 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "befb17c1-e3f3-4561-a01a-acb6c4b95b39")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 95.7119 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAN_RX_FILT_1"
+		(shape input)
+		(at 109.22 142.24 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cedda6b9-c1cb-4708-8517-25e3b732b457")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.2648 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SUART_TX_FILT_1"
+		(shape input)
+		(at 110.49 72.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "db315abf-368a-4944-9bed-9d8d235ce65e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.6601 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SUART_RX_FILT"
+		(shape input)
+		(at 110.49 54.61 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e4a98c5b-8603-43ad-98ee-b6a6c369e229")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 93.5348 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAN_TX"
+		(shape input)
+		(at 39.37 160.02 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e56d16ac-22b7-4dc1-b6e3-1f89f86b47cd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.551 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SUART_RX"
+		(shape input)
+		(at 40.64 57.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "efb0baf9-203e-4be4-9662-57fb5b430b70")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.3415 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_EN_FILT_1"
+		(shape input)
+		(at 242.57 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f5410a46-8988-478c-b75d-c0530b578d4a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 225.6753 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "UART2_TX"
+		(shape input)
+		(at 40.64 176.53 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f5821717-d969-461d-b132-e45c56bb6870")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.6439 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TX_AUD"
+		(shape input)
+		(at 40.64 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f89a11f2-686a-4cff-a4ca-4fcc36e44e9a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 30.821 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TX_AUD_FILT"
+		(shape input)
+		(at 110.49 39.37 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f9405feb-7e46-45a7-8f45-b0e6810ef8f3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.0143 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RAD_PTT_FILT_1"
+		(shape input)
+		(at 109.22 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ff3a44b4-6e87-4e55-8879-20a2345bfd6e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 91.5996 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 132.08 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "015cc7f4-e2e9-4da9-9c44-f62e8356e018")
+		(property "Reference" "#PWR055"
+			(at 132.08 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 132.08 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 132.08 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b3870224-5cb7-4f2f-8952-75f23e1d0713")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "#PWR055")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 133.35 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "042accb4-0856-44ed-8507-f9a6c50ea884")
+		(property "Reference" "#PWR029"
+			(at 133.35 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 133.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 133.35 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb5784e3-1992-4160-9698-ff2720b3d73c")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 133.35 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "104b0087-995e-417e-89cc-a7d451c61ceb")
+		(property "Reference" "#PWR051"
+			(at 133.35 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 133.35 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 133.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d6c6b9b1-537a-49db-8f06-42e0837bcbf1")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:744231061")
+		(at 262.89 39.37 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1aba1c2e-8b93-4ccc-b79c-e0d4eaf3df16")
+		(property "Reference" "L9"
+			(at 252.73 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "744231061"
+			(at 252.73 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:WE-CNSW_08058"
+			(at 246.38 -55.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 246.38 -155.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc"
+			(at 262.89 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 246.38 -355.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-744231061"
+			(at 246.38 -455.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744231061?qs=PGXP4M47uW6SueLTCau2sg%3D%3D"
+			(at 246.38 -555.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 246.38 -655.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "744231061"
+			(at 246.38 -755.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 262.89 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 262.89 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d06ede7a-b6c2-4513-862a-0ff8c6d39afc")
+		)
+		(pin "2"
+			(uuid "4209cad0-6dcf-43ed-a4a8-88cb4603dfd5")
+		)
+		(pin "3"
+			(uuid "d4bdf03f-1f60-44c7-8039-c20ff3900c8c")
+		)
+		(pin "4"
+			(uuid "aa74a176-f325-4e75-baa1-66fe19e69aa1")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "L9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 133.35 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1b24f8f7-36d1-4462-9273-11039547e574")
+		(property "Reference" "#PWR026"
+			(at 133.35 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 133.35 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 133.35 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8aebfb3a-6a8b-4318-adb0-ac0b1049a7bb")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 39.37 160.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "288619c4-9c8f-4ad2-b862-c1c896272d04")
+		(property "Reference" "FL12"
+			(at 55.88 160.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 55.88 162.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 55.88 254.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 55.88 354.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 39.37 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 55.88 554.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 55.88 654.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 55.88 754.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 55.88 854.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 55.88 954.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 39.37 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 39.37 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "2de24fad-efb8-4fcc-abfc-4dbb452d0851")
+		)
+		(pin "2"
+			(uuid "01a65c1b-3c26-420b-9adb-fee440b72db8")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 132.08 160.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2fc0d201-695a-4525-80b9-f23ae5b0700d")
+		(property "Reference" "#PWR072"
+			(at 132.08 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 132.08 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 132.08 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bfd4f9aa-fa64-4d71-8447-e69bc6420cbf")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "#PWR072")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:744231061")
+		(at 129.54 106.68 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2ffa09b5-d6b9-41e4-80dc-c27a08d59394")
+		(property "Reference" "L5"
+			(at 119.38 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "744231061"
+			(at 119.38 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:WE-CNSW_08058"
+			(at 113.03 11.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 -88.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc"
+			(at 129.54 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 113.03 -288.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-744231061"
+			(at 113.03 -388.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744231061?qs=PGXP4M47uW6SueLTCau2sg%3D%3D"
+			(at 113.03 -488.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 113.03 -588.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "744231061"
+			(at 113.03 -688.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 129.54 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 129.54 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ea850845-7c75-4a6d-aefa-ac23311a2f25")
+		)
+		(pin "2"
+			(uuid "4a2c4564-b06c-48db-8c57-e911e1f94646")
+		)
+		(pin "3"
+			(uuid "812344a0-a9c6-4c02-9650-137527933504")
+		)
+		(pin "4"
+			(uuid "07163e35-56b7-4257-a1ec-86f5f1c945b8")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "L5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 133.35 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3159a150-1853-4914-bac0-0f165f84bda7")
+		(property "Reference" "#PWR028"
+			(at 133.35 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 133.35 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 133.35 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6f6533c8-bce3-4300-82a9-fc21e44eb7f9")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:744231061")
+		(at 130.81 57.15 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3d17ebcd-05f4-471e-8e6f-3b8425e1df7c")
+		(property "Reference" "L2"
+			(at 120.65 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "744231061"
+			(at 120.65 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:WE-CNSW_08058"
+			(at 114.3 -37.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 -137.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc"
+			(at 130.81 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 114.3 -337.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-744231061"
+			(at 114.3 -437.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744231061?qs=PGXP4M47uW6SueLTCau2sg%3D%3D"
+			(at 114.3 -537.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 114.3 -637.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "744231061"
+			(at 114.3 -737.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 130.81 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 130.81 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f0fa374c-6e9d-483e-8829-ae1ce1dc22c4")
+		)
+		(pin "2"
+			(uuid "ea0c63a4-6e4d-4721-a065-69839c1807ad")
+		)
+		(pin "3"
+			(uuid "0c7d04fb-934a-4b64-b026-42182ee92008")
+		)
+		(pin "4"
+			(uuid "399982f1-d8bd-4f2c-94ce-1222893b0be5")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "L2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 264.16 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3eccaab7-f8c3-4dca-9b60-552abae3b7bd")
+		(property "Reference" "#PWR078"
+			(at 264.16 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 264.16 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 264.16 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 264.16 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 264.16 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "79019116-ae8c-4b61-b2d8-4c593013cd0d")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "#PWR078")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:744231061")
+		(at 129.54 158.75 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "44f43cf8-1ba0-4be9-bd33-2e701b78c844")
+		(property "Reference" "L8"
+			(at 119.38 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "744231061"
+			(at 119.38 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:WE-CNSW_08058"
+			(at 113.03 63.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 -36.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc"
+			(at 129.54 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 113.03 -236.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-744231061"
+			(at 113.03 -336.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744231061?qs=PGXP4M47uW6SueLTCau2sg%3D%3D"
+			(at 113.03 -436.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 113.03 -536.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "744231061"
+			(at 113.03 -636.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 129.54 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 129.54 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fb61557e-194d-4266-936c-1f90fd4c4c7e")
+		)
+		(pin "2"
+			(uuid "95da31b7-3cdd-4eeb-ab4e-ecab0a622330")
+		)
+		(pin "3"
+			(uuid "6d2fb042-0502-4d45-ba99-aa25dd3a3fe6")
+		)
+		(pin "4"
+			(uuid "57b70b38-b705-4569-b05a-4affcfa016e5")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "L8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 40.64 176.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4c41a3cc-b62d-48a6-abfc-286960476fcc")
+		(property "Reference" "FL16"
+			(at 57.15 176.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 57.15 179.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 57.15 271.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 57.15 371.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 40.64 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 57.15 571.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 57.15 671.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 57.15 771.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 57.15 871.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 57.15 971.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 40.64 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 40.64 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "60af17c6-f122-4099-ba04-d70713e213df")
+		)
+		(pin "2"
+			(uuid "2da5e80c-6bab-40e9-b590-bb69b3e1ac7e")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 265.43 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "516616d3-aa66-44e2-8d58-5a996c80a630")
+		(property "Reference" "#PWR077"
+			(at 265.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 265.43 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 265.43 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 265.43 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 265.43 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cabda6dd-32c0-45eb-8438-ca6eaebb99a6")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "#PWR077")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 40.64 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57679feb-c1d8-4624-a110-ffe0328209cf")
+		(property "Reference" "FL17"
+			(at 57.15 190.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 57.15 193.0399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 57.15 285.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 57.15 385.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 40.64 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 57.15 585.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 57.15 685.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 57.15 785.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 57.15 885.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 57.15 985.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 40.64 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 40.64 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "19c4d9eb-9d32-4da3-a334-5760aa1a7be9")
+		)
+		(pin "2"
+			(uuid "27d1cf30-f31f-4395-b053-8aff276beff8")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 40.64 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b42ca7f-af44-45a3-ad45-3471d253ff42")
+		(property "Reference" "FL3"
+			(at 57.15 57.1499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 57.15 59.6899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 57.15 152.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 57.15 252.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 40.64 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 57.15 452.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 57.15 552.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 57.15 652.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 57.15 752.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 57.15 852.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 40.64 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 40.64 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "872769da-dc9d-4a8c-a87b-d2c18e1b895e")
+		)
+		(pin "2"
+			(uuid "a03d8589-166a-43ef-b28b-22b0dac96484")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:744231061")
+		(at 130.81 72.39 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "689374d0-d7f4-4760-b548-f4e0bebc7a44")
+		(property "Reference" "L3"
+			(at 120.65 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "744231061"
+			(at 120.65 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:WE-CNSW_08058"
+			(at 114.3 -22.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 -122.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc"
+			(at 130.81 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 114.3 -322.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-744231061"
+			(at 114.3 -422.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744231061?qs=PGXP4M47uW6SueLTCau2sg%3D%3D"
+			(at 114.3 -522.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 114.3 -622.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "744231061"
+			(at 114.3 -722.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 130.81 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 130.81 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dfb937bf-d6e4-44bf-8978-b39b5c0486ae")
+		)
+		(pin "2"
+			(uuid "73cdfe39-c201-404f-8f1c-c129c3b0a372")
+		)
+		(pin "3"
+			(uuid "24cbe557-39b1-46bf-af9a-f7b7866c7dc7")
+		)
+		(pin "4"
+			(uuid "bcf9d291-86b7-4ead-abea-8f8a49755054")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "L3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 40.64 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7849191e-28fe-4c7e-93cb-e0723922a646")
+		(property "Reference" "FL8"
+			(at 57.15 126.9999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 57.15 129.5399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 57.15 221.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 57.15 321.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 40.64 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 57.15 521.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 57.15 621.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 57.15 721.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 57.15 821.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 57.15 921.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 40.64 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 40.64 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "64708761-8324-40af-a824-10f51087d747")
+		)
+		(pin "2"
+			(uuid "ef67d5b9-d7e7-47b6-be4f-2a3b3575bc35")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 132.08 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "941bc375-cfb5-4bf5-9978-616136240559")
+		(property "Reference" "#PWR050"
+			(at 132.08 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 132.08 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 132.08 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dcb50aec-942a-4baf-bceb-4270e0c6d455")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 40.64 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1c2d868-1c89-4835-b09b-90be2444d689")
+		(property "Reference" "FL2"
+			(at 57.15 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 57.15 45.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 57.15 138.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 57.15 238.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 40.64 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 57.15 438.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 57.15 538.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 57.15 638.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 57.15 738.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 57.15 838.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 40.64 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 40.64 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "94c5bfa5-d463-423b-98c0-a4c1f8060359")
+		)
+		(pin "2"
+			(uuid "e2dcea91-64ea-4aec-8e3c-563757944e3d")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 40.64 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a3c81162-2246-4910-9819-4788ca0f1cff")
+		(property "Reference" "FL4"
+			(at 57.15 73.6599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 57.15 76.1999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 57.15 168.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 57.15 268.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 40.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 57.15 468.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 57.15 568.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 57.15 668.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 57.15 768.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 57.15 868.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 40.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 40.64 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5c1c9046-2bfa-4c11-99a8-d4aac993a8e7")
+		)
+		(pin "2"
+			(uuid "db7968be-245b-4949-86a5-cfc06b77d123")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 39.37 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8f6f85d-4e9c-48f7-b6f4-a78ba91de29d")
+		(property "Reference" "FL7"
+			(at 55.88 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 55.88 110.4899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 55.88 202.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 55.88 302.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 39.37 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 55.88 502.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 55.88 602.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 55.88 702.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 55.88 802.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 55.88 902.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 39.37 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 39.37 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "720968fe-6bb3-4c2f-b00c-b2380c067a4b")
+		)
+		(pin "2"
+			(uuid "194494c5-2f85-49af-a7cc-5bf6621c80b7")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:744231061")
+		(at 261.62 59.69 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b11bee27-9d47-4c9c-9c86-c8d74ebf18e5")
+		(property "Reference" "L10"
+			(at 251.46 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "744231061"
+			(at 251.46 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:WE-CNSW_08058"
+			(at 245.11 -35.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 245.11 -135.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc"
+			(at 261.62 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 245.11 -335.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-744231061"
+			(at 245.11 -435.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744231061?qs=PGXP4M47uW6SueLTCau2sg%3D%3D"
+			(at 245.11 -535.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 245.11 -635.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "744231061"
+			(at 245.11 -735.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 261.62 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 261.62 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a2b2888c-8979-4667-b03d-cd55f782b668")
+		)
+		(pin "2"
+			(uuid "66abb53c-5ac1-4412-91da-ed4fa574ee1d")
+		)
+		(pin "3"
+			(uuid "6453ab7a-df44-432d-a463-ad13873e32c9")
+		)
+		(pin "4"
+			(uuid "aa79e3d4-4642-4a48-b23c-da0a8ba61916")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "L10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 39.37 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b333075b-dbc9-403c-b492-5f7b557b3ce9")
+		(property "Reference" "FL9"
+			(at 55.88 143.5099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 55.88 146.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 55.88 238.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 55.88 338.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 39.37 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 55.88 538.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 55.88 638.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 55.88 738.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 55.88 838.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 55.88 938.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 39.37 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 39.37 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "65d56149-442f-42fd-aee2-c61fd93b33cd")
+		)
+		(pin "2"
+			(uuid "93be0e80-a69d-4358-94d4-a7c46fd809f1")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 172.72 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9e456ab-3c04-468e-b665-340d2d19cfe3")
+		(property "Reference" "FL13"
+			(at 189.23 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 189.23 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 189.23 135.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 189.23 235.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 172.72 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 189.23 435.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 189.23 535.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 189.23 635.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 189.23 735.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 189.23 835.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 172.72 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 172.72 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "19ed62c6-b1c8-45c8-88de-fff7eabefbca")
+		)
+		(pin "2"
+			(uuid "64dd264c-270f-4dbc-9081-39621dc478d6")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:744231061")
+		(at 130.81 125.73 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bdf134d1-a2ba-42f5-8103-b2292aa406f7")
+		(property "Reference" "L6"
+			(at 120.65 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "744231061"
+			(at 120.65 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:WE-CNSW_08058"
+			(at 114.3 30.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 -69.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc"
+			(at 130.81 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 114.3 -269.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-744231061"
+			(at 114.3 -369.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744231061?qs=PGXP4M47uW6SueLTCau2sg%3D%3D"
+			(at 114.3 -469.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 114.3 -569.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "744231061"
+			(at 114.3 -669.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 130.81 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 130.81 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e3c6dc21-2278-43e0-b7f3-7764104ad0c4")
+		)
+		(pin "2"
+			(uuid "ce673671-0eef-46e8-ab84-e2b8417cafda")
+		)
+		(pin "3"
+			(uuid "dde52f04-f244-4cb2-8005-7b8a83bf1819")
+		)
+		(pin "4"
+			(uuid "824feee4-57b0-46b0-a7e1-4ecd4d0854ed")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "L6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:744231061")
+		(at 130.81 41.91 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c905876b-73c1-4ada-863f-7e009147949b")
+		(property "Reference" "L1"
+			(at 120.65 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "744231061"
+			(at 120.65 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:WE-CNSW_08058"
+			(at 114.3 -53.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 -153.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc"
+			(at 130.81 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 114.3 -353.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-744231061"
+			(at 114.3 -453.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744231061?qs=PGXP4M47uW6SueLTCau2sg%3D%3D"
+			(at 114.3 -553.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 114.3 -653.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "744231061"
+			(at 114.3 -753.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 130.81 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 130.81 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "326d86e5-1928-4b37-91f7-2516e9adc13c")
+		)
+		(pin "2"
+			(uuid "04fc4bb9-e133-4241-9512-5ddb1961be1c")
+		)
+		(pin "3"
+			(uuid "81ab7d1f-1b03-4ddf-a216-6c54ca3818e8")
+		)
+		(pin "4"
+			(uuid "58bd7bc7-e904-4579-bfc0-0e93d25b394c")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "L1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 40.64 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cd156680-0da8-41f6-a657-b6085e0c02fb")
+		(property "Reference" "FL5"
+			(at 57.15 88.8999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 57.15 91.4399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 57.15 183.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 57.15 283.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 40.64 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 57.15 483.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 57.15 583.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 57.15 683.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 57.15 783.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 57.15 883.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 40.64 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 40.64 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "aa8afc41-50f6-44c0-abe4-5bb39fce899b")
+		)
+		(pin "2"
+			(uuid "0481bfc1-6b03-4166-90ef-2cfa1e2fb040")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:744231061")
+		(at 130.81 87.63 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d206b465-8bf9-4d20-a624-e8b4d95fb1ce")
+		(property "Reference" "L4"
+			(at 120.65 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "744231061"
+			(at 120.65 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:WE-CNSW_08058"
+			(at 114.3 -7.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 -107.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc"
+			(at 130.81 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 114.3 -307.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-744231061"
+			(at 114.3 -407.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744231061?qs=PGXP4M47uW6SueLTCau2sg%3D%3D"
+			(at 114.3 -507.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 114.3 -607.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "744231061"
+			(at 114.3 -707.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 130.81 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 130.81 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7297528c-8ac4-44a5-939c-f994ca13071e")
+		)
+		(pin "2"
+			(uuid "9f77fce3-7942-4ff4-b686-9010f1db42fe")
+		)
+		(pin "3"
+			(uuid "1354877d-6940-4cc2-8623-ee3c0c7408e1")
+		)
+		(pin "4"
+			(uuid "342a0a2e-019e-49a0-b63a-9cc8db5aa54b")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "L4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 111.76 176.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e5853ad5-8fa1-46b2-9ac3-736a0676111d")
+		(property "Reference" "FL18"
+			(at 128.27 176.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 128.27 179.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 128.27 271.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 128.27 371.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 111.76 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 128.27 571.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 128.27 671.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 128.27 771.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 128.27 871.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 128.27 971.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 111.76 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 111.76 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5d102126-c3c3-40d0-91d0-03e26a7992f8")
+		)
+		(pin "2"
+			(uuid "7ec9d573-d60b-4d93-b37a-725e73a1406b")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:MAF0603FAL330BT000")
+		(at 171.45 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e6be2cbc-2bde-43cb-a031-adab486f7ee7")
+		(property "Reference" "FL14"
+			(at 187.96 60.9599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MAF0603FAL330BT000"
+			(at 187.96 63.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:BEADC0603X33N"
+			(at 187.96 155.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf"
+			(at 187.96 255.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :"
+			(at 171.45 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.33"
+			(at 187.96 455.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "810-MAF0603FAL330BT0"
+			(at 187.96 555.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/MAF0603FAL330BT000?qs=iLbezkQI%252BshMuMkhexd1yg%3D%3D"
+			(at 187.96 655.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "TDK"
+			(at 187.96 755.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MAF0603FAL330BT000"
+			(at 187.96 855.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 171.45 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 171.45 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d7fc7f95-1488-46dc-aced-1a1d135f952f")
+		)
+		(pin "2"
+			(uuid "552dc742-f3c2-4f11-9547-8e3823e81737")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "FL14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Samac_sys:744231061")
+		(at 129.54 142.24 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f662571d-136a-4ff6-9db7-d3b23ab1fa12")
+		(property "Reference" "L7"
+			(at 119.38 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "744231061"
+			(at 119.38 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:WE-CNSW_08058"
+			(at 113.03 47.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 -52.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc"
+			(at 129.54 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" ""
+			(at 113.03 -252.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-744231061"
+			(at 113.03 -352.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744231061?qs=PGXP4M47uW6SueLTCau2sg%3D%3D"
+			(at 113.03 -452.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 113.03 -552.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "744231061"
+			(at 113.03 -652.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 129.54 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 129.54 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dfa6b636-25e4-4f91-870e-58fc2dc315fe")
+		)
+		(pin "2"
+			(uuid "fdadf003-e731-47e8-80a9-a5b9decb5bee")
+		)
+		(pin "3"
+			(uuid "b1977e35-2d56-4f4d-aa06-0b192c10f19e")
+		)
+		(pin "4"
+			(uuid "98d88580-6457-423d-a2e9-1050bd3870bd")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "L7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 133.35 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fa813de5-4070-4bab-92b7-6a63bcfda9b9")
+		(property "Reference" "#PWR027"
+			(at 133.35 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 133.35 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 133.35 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "680a5658-6a26-4bb2-b27f-66327250420e")
+		)
+		(instances
+			(project "COMMS_BOARD"
+				(path "/4c99d07e-7843-4e21-b48d-b1179499d496/bff7331b-8dc4-4706-89d4-2be51d5cafc7"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

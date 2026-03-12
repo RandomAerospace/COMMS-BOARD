@@ -1,0 +1,153 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP OS102011MA1QN1
+D Switch Slide Right Angle SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide
+K
+F https://www.ckswitches.com/media/1428/os.pdf
+$ENDCMP
+#
+$CMP LFCN-160+
+D Signal Conditioning LOW PASS FLTR / SURF MT / RoHS
+K
+F https://www.mouser.kr/c/?q=LFCN-160
+$ENDCMP
+#
+$CMP MAF0603FAL330BT000
+D Noise Suppression Filters, |Z|=33 at 100MHz, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/emc/emc/suppression-filter/catalog/suppression-filter_commercial_maf0603fa_en.pdf
+$ENDCMP
+#
+$CMP 744231061
+D Wurth WE-CNSW SMD Series Wire-wound SMD Inductor with a Ferrite Core, +/-25% Bifilar, Winding Symmetry 400mA Idc
+K
+F 
+$ENDCMP
+#
+$CMP TLV75733PDBVR
+D LDO Voltage Regulators 1A Low-IQ Small-Size Low-Dropout (LDO) Regulator 5-SOT-23 -40 to 125
+K
+F http://www.ti.com/lit/gpn/tlv757p
+$ENDCMP
+#
+$CMP BLM21PG221SN1D
+D Murata Ferrite Bead (Chip Ferrite Bead), 2 x 1.25 x 0.85mm
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS-31/605570.pdf
+$ENDCMP
+#
+$CMP MT8870DSR1
+D Telecom Interface ICs Pb Free Integrated DTMF Receiver
+K
+F https://www.arrow.com/en/products/mt8870dsr1/microchip-technology
+$ENDCMP
+#
+$CMP ABLSG-3.579545MHZ-D2Y-T
+D HC/49US (AT49) 3RD LEAD CASE-GROUNDED SMD LOW PROFILE CRYSTAL
+K
+F https://abracon.com/Resonators/abls.pdf
+$ENDCMP
+#
+$CMP SM04B-GHS-TB_LF__SN_
+D JST GH Series, 1.25mm Pitch 4 Way Right Angle PCB Header, Solder Termination, 1A
+K
+F http://uk.rs-online.com/web/p/products/7521797
+$ENDCMP
+#
+$CMP DLW5ATN112MQ2L
+D DLW5ATN_Q2L Series EMI Suppression Filter 1100 at 100MHz 2A 50V
+K
+F https://www.murata.com/en-us/products/productdetail?partno=DLW5ATN112MQ2%23
+$ENDCMP
+#
+$CMP 215760-1002
+D Micro-Fit+ Right-Angle Header, 3.00mm Pitch, Single Row, 2 Circuits,  UL 94V-0, Glow-Wire Capable, Black
+K
+F https://www.molex.com/pdm_docs/sd/2157601002_sd.pdf
+$ENDCMP
+#
+$CMP 212528-0201
+D Micro-Fit+ Right-Angle Header, 3.00mm Pitch, Dual Row, 2 Circuits, UL 94V-0, Glow-Wire Capable
+K
+F https://www.molex.com/pdm_docs/sd/2125280200_sd.pdf
+$ENDCMP
+#
+$CMP TXS0102VDCTR
+D Voltage Level Translator Bidirectional 1 Circuit 2 Channel 24Mbps 8-SSOP
+K
+F https://www.ti.com/lit/ds/symlink/txs0102v.pdf?ts=1736527127556&ref_url=https%253A%252F%252Fwww.ti.com%252Flogic-voltage-translation%252Fvoltage-translators-level-shifters%252Fproducts.html
+$ENDCMP
+#
+$CMP TXS0104ED
+D TXS0104ED, Voltage Level Translator, Open Drain 1.65 to 3.6, 2.3 to 5.5V 14-Pin SOIC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100028676.pdf
+$ENDCMP
+#
+$CMP 691412320002
+D Fixed Terminal Blocks WR-TBL Md4123 3.81mm Cable Screwless
+K
+F https://www.we-online.com/components/products/datasheet/691412320002.pdf
+$ENDCMP
+#
+$CMP TCAN1044VDDFR
+D CAN XCVR WITH OPTIONAL FD
+K
+F https://www.ti.com/lit/gpn/TCAN1044V
+$ENDCMP
+#
+$CMP PESD5V5H1BSFYL
+D ESD Suppressors / TVS Diodes
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD5V0H1BSF.pdf
+$ENDCMP
+#
+$CMP PESD3V3Z1BCSFYL
+D PESD3V3Z1BCSF - Extremely low capacitance bidirectional ESD protection diode
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD3V3Z1BCSF.pdf
+$ENDCMP
+#
+$CMP PESD5V0H1BSFYL
+D Nexperia PESD5V0H1BSFYL, Dual Bi-Directional ESD Protection Diode, 2-Pin DSN0603
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD5V0H1BSF.pdf
+$ENDCMP
+#
+$CMP PESD2CANFD24V-UX
+D PESD2CANFD24V-U - ESD protection for In-vehicle networks
+K
+F https://assets.nexperia.com/documents/data-sheet/PESD2CANFD24V-U.pdf
+$ENDCMP
+#
+$CMP TSR_2-2450N
+D Linear Regulator Replacement DC DC Converter 1 Output 5V 2A 6.5V - 36V Input , 2A , 10W , -40C ~ 85C , 3-SIP
+K
+F https://www.tracopower.com/sites/default/files/products/datasheets/tsr2n_datasheet.pdf?t=1734742801
+$ENDCMP
+#
+$CMP TPS22997RYZR
+D TPS22997 5.5-V, 10-A, 4-m On-Resistance Load Switch with Adjustable Rise Time
+K
+F https://www.ti.com/lit/gpn/tps22997?HQS=ti-null-null-sf-df-pf-sep-wwe&DCM=yes?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
+$CMP TPS1HB08BQPWPRQ1
+D Power Switch ICs - Power Distribution 40V, 8-mOhm, 1-Ch smart high-side switch 16-HTSSOP -40 to 125
+K
+F https://www.ti.com/lit/gpn/TPS1HB08-Q1
+$ENDCMP
+#
+$CMP BMM350
+D Board Mount Hall Effect / Magnetic Sensors High-Performance Magnometer
+K
+F https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmm350-ds001.pdf
+$ENDCMP
+#
+#End Doc Library

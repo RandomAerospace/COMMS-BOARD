@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "VHF_UHF_Modules")(type "KiCad")(uri "${KIPRJMOD}/kicad-VHF-UHF-modules-main/VHF_UHF_Modules.kicad_sym")(options "")(descr ""))
+  (lib (name "Samac_sys")(type "KiCad")(uri "${KIPRJMOD}/SAMACSYS_LIB_COMMS/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+)

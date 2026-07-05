@@ -35,7 +35,7 @@
   (pad 6 smd rect (at -2.100 -1.775 90) (size 0.700 1.300) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at -2.100 2.225 90) (size 0.700 1.300) (layers F.Cu F.Paste F.Mask))
   (pad 8 smd rect (at 2.100 2.225 90) (size 0.700 1.300) (layers F.Cu F.Paste F.Mask))
-  (model "D:\\KiCad\\PROJECT_SIGMA\\STATE ESTIMATION\\COMMS_BOARD\\SAMACSYS_LIB_COMMS\\SamacSys_Parts.3dshapes\\DLW5ATN112MQ2L.stp"
+  (model "C:\\Users\\STARGATE_user\\Documents\\KiCad\\Github stuff\\COMMS-BOARD\\SAMACSYS_LIB_COMMS\\SamacSys_Parts.3dshapes\\DLW5ATH111TQ2L.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

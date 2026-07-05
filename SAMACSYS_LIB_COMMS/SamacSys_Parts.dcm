@@ -162,4 +162,16 @@ K
 F https://www.jst-mfg.com/product/pdf/eng/ePH.pdf
 $ENDCMP
 #
+$CMP DLW5ATH111TQ2L
+D DLW5ATH_Q2L Series EMI Suppression Filter 110 at 100MHz 3A 50V
+K
+F https://www.murata.com/en-us/products/productdetail?partno=DLW5ATH111TQ2%23
+$ENDCMP
+#
+$CMP MAX-M10S-00B
+D GPS Modules u-blox M10 GNSS LCC module, firmware in ROM, SAW filter, LNA
+K
+F https://content.u-blox.com/sites/default/files/MAX-M10S_IntegrationManual_UBX-20053088.pdf
+$ENDCMP
+#
 #End Doc Library

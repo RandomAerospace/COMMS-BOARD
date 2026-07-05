@@ -2516,6 +2516,16 @@
 		)
 		(uuid "7e4c700e-58b5-4cd4-82a5-faaa35ed5fd5")
 	)
+	(text "IO34 AND 35 are inputs, so these are interrupts from IMU"
+		(exclude_from_sim no)
+		(at 88.9 120.904 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "83f2c198-b4af-4dcd-93c0-bec5be2b5d7d")
+	)
 	(text "220ohm @100MHz\n"
 		(exclude_from_sim no)
 		(at 134.366 165.862 0)

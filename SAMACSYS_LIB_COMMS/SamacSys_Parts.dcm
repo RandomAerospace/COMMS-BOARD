@@ -174,4 +174,10 @@ K
 F https://content.u-blox.com/sites/default/files/MAX-M10S_IntegrationManual_UBX-20053088.pdf
 $ENDCMP
 #
+$CMP MAX7328AWE+
+D MAXIM INTEGRATED PRODUCTS - MAX7328AWE+ - I/O EXPANDER, I2C, 8PORT, WSOIC-16
+K
+F https://componentsearchengine.com/Datasheets/1/MAX7328AWE+.pdf
+$ENDCMP
+#
 #End Doc Library

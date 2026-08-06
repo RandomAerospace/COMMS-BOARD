@@ -1,2 +1,4 @@
 Comms board with APRS GNSS
-Issues: GPIO Pins for VTX_EN and  Cutter are input only, massive issue that required me to bodge wires onto GPIO 4 and 5 which are for CAN_TX and CAN_Rx
+V1 has been flight tested, V2 has fixed existing issues under issues tab
+Accompanying firmware: https://github.com/RandomAerospace/BEAR13_FIRMWARE
+Summary of the project, presented at SARTS: https://www.sarts.org.sg/presentations-quarterly-meeting-may-2026/
